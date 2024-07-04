@@ -4,7 +4,7 @@ export const App = () => {
   return (
     <AppContainer>
       <p>
-        Ediiiiit <code>src/App.js</code> and save to reload.
+        Edit <code>src/App.js</code> and save to reload.
       </p>
     </AppContainer>
   );
